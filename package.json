@@ -1,0 +1,20 @@
+{
+  "name": "asztalalkalmazas",
+  "version": "1.0.0",
+  "description": "ASZAF - Desktop Application - Joint project with Bujáki Erik Attila",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "electron",
+    "desktop",
+    "aszaf"
+  ],
+  "author": "docziadrian, Bujáki Erik Attila",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^39.2.3"
+  }
+}
